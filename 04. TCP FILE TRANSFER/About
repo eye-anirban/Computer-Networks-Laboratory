@@ -1,0 +1,1 @@
+Write a program to implement File Transfer using Transfer Control Protocol (TCP) in which server sends the list of files which are available, to the client . The client then chooses the file it wants to download . The server uploads that file and it is displayed on the client side . Implementation in C - Language .
