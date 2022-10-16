@@ -1,0 +1,6 @@
+This 
+Is a file
+which I have 
+named xyz and the 
+extension i have given 
+is txt bcoz its a text file

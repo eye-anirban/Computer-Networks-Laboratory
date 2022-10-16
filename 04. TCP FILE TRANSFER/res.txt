@@ -1,0 +1,17 @@
+a.out
+cfile
+chattcpclient.c
+chattcpserver.c
+file_client.c
+file_server.c
+google-chrome-stable_current_amd64.deb
+q1
+q1.c
+q2
+q2.c
+recvfile.txt
+res.txt
+sfile
+tcpcl
+tcpsv
+xyz.txt
