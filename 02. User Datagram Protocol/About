@@ -1,0 +1,1 @@
+Write a program in C language to implement User Datagram Protocol (UDP) to exchange messages between sender and reciever until either sender or the reciever writes "bye" .
