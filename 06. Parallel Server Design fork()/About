@@ -1,0 +1,1 @@
+Write a program to implement Parallel Server Design using multiprocessing , such that multiple clients can chat with a single echo server parallely , in C Language with fork() function . The chat with a particular client will be limited upto the point where they send 'logout' to the server . 
