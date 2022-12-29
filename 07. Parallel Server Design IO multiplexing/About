@@ -1,0 +1,1 @@
+Design a connection oriented concurrent chat server using select() in C where the server will serve multiple chat clients simultaneously. When the chat server receives a “logout” message from a particular client then it terminate the respective connection with that chat client.
